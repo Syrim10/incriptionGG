@@ -1,0 +1,93 @@
+body{
+	margin: 0;
+}
+.A{
+	background: black;
+	height: 100%;
+	background-size: cover;
+	background-image: url(i.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+}
+.B{
+	height: 350px;
+	
+
+}
+.I{
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+}
+.IIIIII{
+	margin-top: 35px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}	
+.II{
+	height: 375px;
+	width: 225px;
+}
+.c{
+	color: #e77119;
+	text-align: center;
+}
+.ah{
+	margin-left: 200px;
+	margin-top: 50px;
+	color: #e77119;
+	border: none;
+	text-decoration: none;
+}
+.DD{
+	display: flex;
+	height: 375px;
+	background:;
+}
+.III{
+	height: 375px;
+	width: 350px;
+}
+.IIII{
+	height: 375px;
+	width: 400px;
+	margin-left:125px ;
+}
+.D{
+	height: 50px;
+	width: 75px;
+	background: ;
+	color:#e77119;
+	margin-top: 325px;
+	margin-left:  950px;
+	border: none;
+}
+@font-face{ 
+ src: url(Торт.otf);
+ font-family: GG;
+ }
+ .GG{
+ 	font-family: GG;
+ }
+ .ml{
+ 	margin-left: 300px;
+ }
+ .mlh{
+ 	margin-left: 500ox;
+ }
+ .ahh{
+ 		color: #e77119;
+	border: none;
+	text-decoration: none;
+ }
+ .div{
+ 	width: 525px;
+ 	height: 10px;
+ 	margin-left: auto;;
+ }
